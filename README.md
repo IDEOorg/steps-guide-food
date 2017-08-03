@@ -1,6 +1,6 @@
 # Steps Food Guide
 
-The Steps Food Guide is an open sourced resource for anyone to use. This resource provides a personalized experience for low-income people to explore actions they can take if they're struggling to purchaes food. The guide can be viewed at https://ideoorg.github.io/steps-guide-food/#/.
+The Steps Food Guide is an open sourced resource for anyone to use. This resource provides a personalized experience for low-income people to explore actions they can take if they're struggling to purchase food. The guide can be viewed at https://ideoorg.github.io/steps-guide-food/#/.
 
 ## Getting Started
 
